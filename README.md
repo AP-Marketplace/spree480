@@ -1,20 +1,20 @@
-# Spree 4.8
-
+# SpreeQA
 
 ## Prerequisites
 
 Before you begin, make sure you have the following prerequisites installed on your system:
 
 - Ruby 3.3.0
-- Rails 7.1.3.4
+- Rails 7.2.1
 - Postgresql 14.11
+- Node v20.9.0
 
 ## Installation
 
 1. **Clone the project** using the provided URL:
 
    ```bash
-   git clone https://github.com/AasPass-Marketplace/spree480.git
+   git clone https://github.com/AP-Marketplace/spree480.git
    ```
 
 2. **Install the required gems** using Bundler:
@@ -47,7 +47,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 6. **Add app credentials:**
 
-   - **config/master.key** ```abc```
+   - **config/master.key** ```2c575c1d2c6d334ab0332ed1f5e9f6d2```
 
 6. **Seed the database:**
 
